@@ -5,22 +5,28 @@ import classes from "./AvailableMeals.module.css";
 const DUMMY_MEALS = [
   {
     id: "m1",
-    name: "Sushi",
-    description: "Finest fish and veggies",
-    price: 22.99,
+    name: "Acarajé com camarão",
+    description: "Vatapá, caruru, camarão, salada e pimenta",
+    price: 12.99,
   },
   {
     id: "m2",
-    name: "Schnitzel",
-    description: "A german speciality!",
+    name: "Acarajé com camarão e bacalhau",
+    description: "Vatapá, caruru, camarão, bacalhau, salada e pimenta",
     price: 16.5,
   },
   {
     id: "m3",
-    name: "Green Bowl",
-    description: "Healthy...and green...",
-    price: 18.99,
+    name: "Acarajé sem camarão",
+    description: "Vatapá, caruru, salada e pimenta",
+    price: 10.00,
   },
+  {
+    id: "m4",
+    name: "Barca média",
+    description: "9 bolinhos, caruru, vatapá, camarão e salada.",
+    price: 39.99,
+  }
 ];
 
 const AvailableMeals = () => {

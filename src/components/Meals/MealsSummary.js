@@ -3,12 +3,12 @@ import classes from './MealsSummary.module.css'
 const MealsSummary = () =>{
     return(
         <section className={classes.summary}>
-            <h2>Delicious Food, Delivered To You</h2>
+            <h2>A deliciosa culinária baiana, a um pedido!</h2>
             <p>
-                Choose your favorite meal from our broad selection of available meals and enjoy a delicious lunch or dinner at time.
+                Escolha seu delicioso prato de comidas típicas e se delicie com nossos sabores.
             </p>
             <p>
-                All our meals are cooked with hight-quality ingredients, just-in-time and of course by experienced chefs!
+                Todos os pratos são preparados com ingredientes de alta qualidade, feitos da hora por chefes experientes!
             </p>
         </section>
     )
