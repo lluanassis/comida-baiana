@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/comida-baiana/static/css/main.6110830a.chunk.css",
+    "main.js": "/comida-baiana/static/js/main.4f529b8f.chunk.js",
+    "main.js.map": "/comida-baiana/static/js/main.4f529b8f.chunk.js.map",
+    "runtime-main.js": "/comida-baiana/static/js/runtime-main.303ed43f.js",
+    "runtime-main.js.map": "/comida-baiana/static/js/runtime-main.303ed43f.js.map",
+    "static/js/2.b212a961.chunk.js": "/comida-baiana/static/js/2.b212a961.chunk.js",
+    "static/js/2.b212a961.chunk.js.map": "/comida-baiana/static/js/2.b212a961.chunk.js.map",
+    "index.html": "/comida-baiana/index.html",
+    "static/css/main.6110830a.chunk.css.map": "/comida-baiana/static/css/main.6110830a.chunk.css.map",
+    "static/js/2.b212a961.chunk.js.LICENSE.txt": "/comida-baiana/static/js/2.b212a961.chunk.js.LICENSE.txt",
+    "static/media/acarajes.56b08647.jpg": "/comida-baiana/static/media/acarajes.56b08647.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.303ed43f.js",
+    "static/js/2.b212a961.chunk.js",
+    "static/css/main.6110830a.chunk.css",
+    "static/js/main.4f529b8f.chunk.js"
+  ]
+}
